@@ -1,38 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+My favourite food is pizza and following are some recipe related to it 
 
-## Getting Started
+In a large mixing bowl, combine the flour, salt, sugar, and yeast. Stir well.
 
-First, run the development server:
+Add the warm water and olive oil to the dry ingredients. Mix until the dough comes together.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Turn the dough out onto a lightly floured surface and knead for about 5 minutes, or until it is smooth and elastic.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for about an hour, or until it has doubled in size.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Preheat your oven to 450 degrees Fahrenheit.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Punch down the dough and roll it out on a lightly floured surface to your desired thickness.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Place the rolled-out dough on a greased pizza pan or baking sheet.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Spread pizza sauce on top of the dough, leaving a small border around the edges.
 
-## Learn More
+Sprinkle cheese over the sauce, and add your desired toppings.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Bake the pizza for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.
